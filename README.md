@@ -1,6 +1,5 @@
 - Greetings, I’m @TraumaticVoid
-- I’m interested in Cybersecurity 
-- I’m currently learning Javascript Eloquent
+- I ngl don't know what I'm doing
 - Fun fact: I open bananas slpitting them into two
 
 <!---
